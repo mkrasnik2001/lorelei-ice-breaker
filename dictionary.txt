@@ -1,0 +1,23 @@
+	1.	Raesfeld - Raesfeld (a town in Germany, no direct translation)
+	2.	Flughafen - Airport
+	3.	Berlin - Berlin (a city in Germany, no translation)
+	4.	Bratwurst - Grilled sausage
+	5.	Hauptstrasse - Main street
+	6.	Brot - Bread
+	7.	Klimaanlage - Air conditioning
+	8.	Rammstein - Rammstein (a German band, no translation)
+	9.	Porsche - Porsche (a car brand, no translation)
+	10.	BMW - BMW (a car brand, no translation)
+	11.	Biergarten - Beer garden
+	12.	Ratskeller - Town hall cellar (often refers to a restaurant or bar in the basement of a town hall)
+	13.	Dirndl - Dirndl (traditional Bavarian/Austrian dress, no direct translation)
+	14.	Lederhose - Leather pants (traditional Bavarian/Austrian trousers)
+	15.	Schloss - Castle or palace
+	16.	wettbewerbsfähig - Competitive
+	17.	Mehlhase - Flour hare (a traditional dish; figurative)
+	18.	Gebäck - Pastry or baked goods
+	19.	Bäckerei - Bakery
+	20.	Hund - Dog
+	21.	Döner - Döner kebab
+	22.	Apfelkuchen - Apple cake
+	23.	Schloss Eltz - Eltz Castle (a famous castle in Germany, no translation)
